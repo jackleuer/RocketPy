@@ -32,6 +32,7 @@ Attention: The newest changes should be on top -->
 
 ### Added
 
+- ENH: Support for ND arithmetic in Function class. [#810] (https://github.com/RocketPy-Team/RocketPy/pull/810)
 - BUG: Fix StochasticFlight time_overshoot None bug [#805] (https://github.com/RocketPy-Team/RocketPy/pull/805)
 - ENH: Implement Multivariate Rejection Sampling (MRS) [#738] (https://github.com/RocketPy-Team/RocketPy/pull/738) 
 - ENH: Create a rocketpy file to store flight simulations [#800](https://github.com/RocketPy-Team/RocketPy/pull/800)
